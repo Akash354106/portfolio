@@ -32,7 +32,7 @@ export default function Hero() {
               Download Resume
             </button>
             <br className='hidden md:block'/>
-            <button className='bg-slate-100 text-black hover:bg-slate-200 font-semibold p-[5px] text-[8px] w-[90px] md:p-[9px] lg:p-[12px] m-1 rounded-md md:text-[13px] md:w-[140px] lg:w-[180px] border border-black mb-1'>
+            <button className='bg-slate-100 text-black hover:bg-slate-200 font-semibold p-[5px] text-[8px] w-[90px] md:p-[9px] lg:p-[12px] m-1 rounded-md md:text-[13px] md:w-[140px] lg:w-[180px] border border-black '>
               Contact Me
             </button>
           </div>
